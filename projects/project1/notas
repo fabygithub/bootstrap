@@ -1,1 +1,51 @@
+fontawesome.com
+
+start for free
+npm
+https://fontawesome.com/docs/web/setup/packages
+npm install --save @fortawesome/fontawesome-free
+
+clear
+paste link in git bash
+
+npmjs.com
+
+autoprefixer
+
+npm install postcss-cli autoprefixer --save
+install 91 packages
+
+
+revisar package.json
+como se instalan los paquetes
+
+en package.json
+borrar o comentar scripts
+
+colocar
+
+"compile:sass": "sass scss:assets/css"
+
+  "test": "echo \"Error: no test specified\" && exit 1"
+  
+  git bash
+  npm run compile:sass
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
